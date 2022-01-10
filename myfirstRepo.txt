@@ -1,2 +1,3 @@
 
 We are in the Git my first session
+We are writing another line
